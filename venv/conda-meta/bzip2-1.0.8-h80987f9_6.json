@@ -33,6 +33,7 @@
   ],
   "fn": "bzip2-1.0.8-h80987f9_6.conda",
   "legacy_bz2_md5": "56d1386c7f1f338f0d18f82af6525273",
+  "legacy_bz2_size": 158748,
   "license": "bzip2-1.0.8",
   "license_family": "BSD",
   "link": {

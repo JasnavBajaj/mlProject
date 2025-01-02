@@ -2972,6 +2972,7 @@
   ],
   "fn": "ncurses-6.4-h313beb8_0.conda",
   "legacy_bz2_md5": "43568079a90f14ee6d763f2c1cdd3cfa",
+  "legacy_bz2_size": 1078472,
   "license": "MIT AND X11",
   "license_family": "MIT",
   "link": {
@@ -3551,7 +3552,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_47c5juxes5/croot/ncurses_1674734012557/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
         "sha256": "00a079e1a4674104b43c0970d6f1305fbb0304d2c3819498694d8b97b5f6e0f5",
-        "sha256_in_prefix": "8f2c0b10e3ecb1507748b3cb8b4f691e99876c47648bab068b61d3fbaac299e8",
+        "sha256_in_prefix": "030dfc35741b689259ee861318684de044053b9eaddbd2560c4b32d8394ca56f",
         "size_in_bytes": 235328
       },
       {
@@ -3629,7 +3630,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_47c5juxes5/croot/ncurses_1674734012557/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
         "sha256": "cbe6f253ac28b45d75010c60d300a5394af72e4425643ba88b4aa40ed772c054",
-        "sha256_in_prefix": "d888abac5fcd008a7094b6107516308f7a2356fb01300a9bd403b2ddcf532aac",
+        "sha256_in_prefix": "65f7f3290526bd7bdf08c9255e2dacb7b6f35bf83f924e9bc22d15b63159939f",
         "size_in_bytes": 238368
       },
       {

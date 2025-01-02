@@ -162,6 +162,7 @@
   ],
   "fn": "xz-5.4.6-h80987f9_1.conda",
   "legacy_bz2_md5": "3f5f62d4e85e3bdd48d39189b01805a6",
+  "legacy_bz2_size": 459197,
   "license": "LGPL-2.1-or-later and GPL-2.0-or-later and 0BSD",
   "license_family": "GPL2",
   "link": {
